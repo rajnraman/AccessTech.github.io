@@ -10,7 +10,7 @@
 ## Houston Taylor - App Developers
 ## Thinh Pham - App Developers
 ## Partnerships:
-## We are proud to collaborate with Texas Tech University's Student Disability Services to ensure that our app is up-to-date with the latest accessibility information. We also appreciate the support of [Name of any additional partners or sponsors].
+## We are proud to collaborate with Texas Tech University's Student Disability Services to ensure that our app is up-to-date with the latest accessibility information. 
 
 ## Contact Us:
-## We value your feedback and suggestions. If you have any questions, comments, or ## would like to get involved with our project, please don't hesitate to reach out ## to us at [Your Contact Information].
+## We value your feedback and suggestions. If you have any questions, comments, or would like to get involved with our project, please don't hesitate to reach out to us.
