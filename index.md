@@ -1,4 +1,4 @@
-## [Homepage](/) | [About](about.md) | [Planned Features](features.md) | [Timeline](timeline.md)
+## [Homepage](index.md) | [About](about.md) | [Planned Features](features.md) | [Timeline](timeline.md)
 
 
 
