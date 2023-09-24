@@ -1,8 +1,6 @@
-## [Homepage](/) | [About](about.md) | [Planned Features](features.md) | [Timeline](timeline.md)
+## [Homepage](/index.md) | [About](about.md) | [Planned Features](features.md) | [Timeline](timeline.md)
 
-#
-## Our Mission:
-## At the TTU Disability App, our mission is to empower disabled students at Texas Tech University by providing them with the information they need to navigate the campus comfortably and independently. We believe that accessibility is a fundamental right, and we are committed to making the campus experience as inclusive as possible for all.
+
 
 ## Team:
 
