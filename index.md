@@ -1,4 +1,5 @@
-## [Homepage](/) | [About](/tabs/about) | [Planned Features](/tabs/features) | [Timeline](/tabs/timeline)
+## [Homepage](/) | [About](about.md) | [Planned Features](features.md) | [Timeline](timeline.md)
+
 
 
 
