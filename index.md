@@ -1,4 +1,4 @@
-## [Homepage](/) | [About](/tabs/about) | [Planned Features](/features) | [Timeline](/timeline)
+## [Homepage](/) | [About](/tabs/about) | [Planned Features](/tabs/features) | [Timeline](/tabs/timeline)
 
 
 
