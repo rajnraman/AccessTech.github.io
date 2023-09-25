@@ -4,11 +4,21 @@
 
 ## Team:
 
->Travis Libre - Founder and Developer
-> Raj Raman - App Developers
-> Bhumik Bhakta - App Developers
-> Houston Taylor - App Developers
-> Thinh Pham - App Developers
+- Travis Libre
+  - Founder and Developer
+
+- Raj Raman
+  - App Developer
+
+- Bhumik Bhakta
+  - App Developer
+
+- Houston Taylor
+  - App Developer
+
+- Thinh Pham
+  - App Developer
+
 ## Partnerships:
 > We are proud to collaborate with Texas Tech University's Student Disability Services to ensure that our app is up-to-date with the latest accessibility information. 
 
